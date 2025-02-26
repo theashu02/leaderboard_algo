@@ -22,8 +22,8 @@ A simple ranking system where users can vote for participants, and the leaderboa
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/leaderboard-api.git
-   cd leaderboard-api
+   git clone https://github.com/theashu02/leaderboard_algo
+   cd leaderboard_algo
    ```
 2. Install dependencies:
    ```sh
