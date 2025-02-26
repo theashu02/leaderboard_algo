@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:3000";
+const API_URL = "https://leaderboard-algo.onrender.com";
 
 function App() {
   const [leaderboard, setLeaderboard] = useState([]);
