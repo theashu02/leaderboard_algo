@@ -71,8 +71,8 @@ function App() {
       <div className="max-w-6xl mx-auto">
         <header className="text-center mb-8 md:mb-12">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600 mb-2">
-            Competition Leaderboard
-          </h1>
+            Leaderboard API System Using Heap
+          </h1> 
           <p className="text-gray-400 max-w-2xl mx-auto">
             Vote for your favorite participants and track their standings in
             real-time
